@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I'm Kyle Chiu, this is my sub-account when I work in Freedom Systems.
-- **Power Platform**
+- **Power Platform**  
 Power Apps, Power Automate  
-- **Azure**
+- **Azure**  
 App service, VM, OpenAI, Bot services  
 - **Other Devtools**  
 Node.js, Linux, Apache, DNS, SSL, MySQL, Git, Docker  
