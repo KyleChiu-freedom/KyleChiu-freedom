@@ -1,5 +1,12 @@
 ## Hi there 👋
 ### I'm Kyle Chiu, this is my sub-account when I work in Freedom Systems.
+- **Power Platform**
+Power Apps, Power Automate  
+- **Azure**
+App service, VM, OpenAI, Bot services  
+- **Other Devtools**  
+Node.js, Linux, Apache, DNS, SSL, MySQL, Git, Docker  
+
 
 <!--
 **KyleChiu-freedom/KyleChiu-freedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
