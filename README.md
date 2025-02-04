@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Kyle Chiu, this is my sub-account when I work in Freedom Systems.
+### I'm Kyle Chiu, this is my sub-account when I work in Freedom Software.
 - **Power Platform**  
 Power Apps, Power Automate  
 - **Azure**  
